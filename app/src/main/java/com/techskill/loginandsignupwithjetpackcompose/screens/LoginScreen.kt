@@ -1,4 +1,4 @@
-package com.devskill.loginandsignupwithjetpackcompose.screens
+package com.techskill.loginandsignupwithjetpackcompose.screens
 
 import android.content.Context
 import android.widget.Toast
@@ -39,9 +39,9 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.navigation.NavHostController
 import androidx.navigation.compose.rememberNavController
-import com.devskill.loginandsignupwithjetpackcompose.routes.Routes
-import com.devskill.loginandsignupwithjetpackcompose.ui.theme.LoginAndSignUpWithJetpackComposeTheme
-import com.devskill.loginandsignupwithjetpackcompose.ui.theme.Purple700
+import com.techskill.loginandsignupwithjetpackcompose.routes.Routes
+import com.techskill.loginandsignupwithjetpackcompose.ui.theme.LoginAndSignUpWithJetpackComposeTheme
+import com.techskill.loginandsignupwithjetpackcompose.ui.theme.Purple700
 
 @OptIn(ExperimentalComposeUiApi::class)
 @Composable

@@ -1,4 +1,4 @@
-package com.devskill.loginandsignupwithjetpackcompose.ui.theme
+package com.techskill.loginandsignupwithjetpackcompose.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

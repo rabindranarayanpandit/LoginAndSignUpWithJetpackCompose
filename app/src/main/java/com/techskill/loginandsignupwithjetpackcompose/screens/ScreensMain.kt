@@ -1,10 +1,10 @@
-package com.devskill.loginandsignupwithjetpackcompose.screens
+package com.techskill.loginandsignupwithjetpackcompose.screens
 
 import androidx.compose.runtime.Composable
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
-import com.devskill.loginandsignupwithjetpackcompose.routes.Routes
+import com.techskill.loginandsignupwithjetpackcompose.routes.Routes
 
 @Composable
 fun ScreenMain(){

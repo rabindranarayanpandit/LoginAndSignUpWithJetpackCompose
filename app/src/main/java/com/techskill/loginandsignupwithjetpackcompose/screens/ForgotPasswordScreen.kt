@@ -1,4 +1,4 @@
-package com.devskill.loginandsignupwithjetpackcompose.screens
+package com.techskill.loginandsignupwithjetpackcompose.screens
 
 import android.annotation.SuppressLint
 import android.content.Context
@@ -30,8 +30,8 @@ import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.navigation.NavHostController
 import androidx.navigation.compose.rememberNavController
-import com.devskill.loginandsignupwithjetpackcompose.appcomponent.CustomTopAppBar
-import com.devskill.loginandsignupwithjetpackcompose.ui.theme.LoginAndSignUpWithJetpackComposeTheme
+import com.techskill.loginandsignupwithjetpackcompose.appcomponent.CustomTopAppBar
+import com.techskill.loginandsignupwithjetpackcompose.ui.theme.LoginAndSignUpWithJetpackComposeTheme
 
 @Composable
 fun ForgotPassword(navController: NavHostController) {

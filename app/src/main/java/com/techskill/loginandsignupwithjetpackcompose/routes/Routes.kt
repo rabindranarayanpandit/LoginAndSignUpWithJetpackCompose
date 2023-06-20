@@ -1,4 +1,4 @@
-package com.devskill.loginandsignupwithjetpackcompose.routes
+package com.techskill.loginandsignupwithjetpackcompose.routes
 
 sealed class Routes(val route: String) {
     object Login : Routes("Login")

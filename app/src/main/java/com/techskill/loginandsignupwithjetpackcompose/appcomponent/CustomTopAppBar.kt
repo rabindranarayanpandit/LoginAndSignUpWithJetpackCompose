@@ -1,4 +1,4 @@
-package com.devskill.loginandsignupwithjetpackcompose.appcomponent
+package com.techskill.loginandsignupwithjetpackcompose.appcomponent
 
 import androidx.compose.material.Icon
 import androidx.compose.material.IconButton

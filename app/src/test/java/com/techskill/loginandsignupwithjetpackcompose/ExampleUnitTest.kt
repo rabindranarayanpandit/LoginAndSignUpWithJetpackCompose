@@ -1,4 +1,4 @@
-package com.devskill.loginandsignupwithjetpackcompose
+package com.techskill.loginandsignupwithjetpackcompose
 
 import org.junit.Test
 
