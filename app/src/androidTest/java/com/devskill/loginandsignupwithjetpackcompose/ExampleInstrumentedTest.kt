@@ -1,4 +1,4 @@
-package com.litmus7.loginandsignupwithjetpackcompose
+package com.devskill.loginandsignupwithjetpackcompose
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

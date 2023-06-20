@@ -1,4 +1,4 @@
-package com.litmus7.loginandsignupwithjetpackcompose.ui.theme
+package com.devskill.loginandsignupwithjetpackcompose.ui.theme
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle

@@ -1,4 +1,4 @@
-package com.litmus7.loginandsignupwithjetpackcompose.screens
+package com.devskill.loginandsignupwithjetpackcompose.screens
 
 import android.annotation.SuppressLint
 import androidx.compose.foundation.layout.Arrangement
@@ -12,7 +12,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.unit.sp
 import androidx.navigation.NavHostController
-import com.litmus7.loginandsignupwithjetpackcompose.appcomponent.CustomTopAppBar
+import com.devskill.loginandsignupwithjetpackcompose.appcomponent.CustomTopAppBar
 
 @SuppressLint("UnusedMaterialScaffoldPaddingParameter")
 @Composable

@@ -1,10 +1,10 @@
-package com.litmus7.loginandsignupwithjetpackcompose.screens
+package com.devskill.loginandsignupwithjetpackcompose.screens
 
 import androidx.compose.runtime.Composable
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
-import com.litmus7.loginandsignupwithjetpackcompose.routes.Routes
+import com.devskill.loginandsignupwithjetpackcompose.routes.Routes
 
 @Composable
 fun ScreenMain(){

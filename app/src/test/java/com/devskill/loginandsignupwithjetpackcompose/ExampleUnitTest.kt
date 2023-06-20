@@ -1,4 +1,4 @@
-package com.litmus7.loginandsignupwithjetpackcompose
+package com.devskill.loginandsignupwithjetpackcompose
 
 import org.junit.Test
 

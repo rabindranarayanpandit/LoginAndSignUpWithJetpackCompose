@@ -1,4 +1,4 @@
-package com.litmus7.loginandsignupwithjetpackcompose.routes
+package com.devskill.loginandsignupwithjetpackcompose.routes
 
 sealed class Routes(val route: String) {
     object Login : Routes("Login")

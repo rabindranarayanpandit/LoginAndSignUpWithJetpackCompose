@@ -1,4 +1,4 @@
-package com.litmus7.loginandsignupwithjetpackcompose.appcomponent
+package com.devskill.loginandsignupwithjetpackcompose.appcomponent
 
 import androidx.compose.material.Icon
 import androidx.compose.material.IconButton

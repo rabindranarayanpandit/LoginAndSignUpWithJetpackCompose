@@ -1,4 +1,4 @@
-package com.litmus7.loginandsignupwithjetpackcompose.screens
+package com.devskill.loginandsignupwithjetpackcompose.screens
 
 import android.content.Context
 import android.widget.Toast
@@ -30,7 +30,6 @@ import androidx.compose.ui.text.AnnotatedString
 import androidx.compose.ui.text.TextStyle
 import androidx.compose.ui.text.font.FontFamily
 import androidx.compose.ui.text.input.ImeAction
-import androidx.compose.ui.text.input.ImeOptions
 import androidx.compose.ui.text.input.KeyboardType
 import androidx.compose.ui.text.input.PasswordVisualTransformation
 import androidx.compose.ui.text.input.TextFieldValue
@@ -40,9 +39,9 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.navigation.NavHostController
 import androidx.navigation.compose.rememberNavController
-import com.litmus7.loginandsignupwithjetpackcompose.routes.Routes
-import com.litmus7.loginandsignupwithjetpackcompose.ui.theme.LoginAndSignUpWithJetpackComposeTheme
-import com.litmus7.loginandsignupwithjetpackcompose.ui.theme.Purple700
+import com.devskill.loginandsignupwithjetpackcompose.routes.Routes
+import com.devskill.loginandsignupwithjetpackcompose.ui.theme.LoginAndSignUpWithJetpackComposeTheme
+import com.devskill.loginandsignupwithjetpackcompose.ui.theme.Purple700
 
 @OptIn(ExperimentalComposeUiApi::class)
 @Composable
